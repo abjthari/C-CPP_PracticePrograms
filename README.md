@@ -1,2 +1,2 @@
-# C-PracticePrograms
+# C++-PracticePrograms
 Programs for practice
