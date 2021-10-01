@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int swap(int arr1[], int arr2[], int n1, int n2)
+int swap(int arr1[], int arr2[], int n1, int n2)// for swapping
 {
    int i=0,j=0,temp=0;
    while(j<n2)
@@ -26,7 +26,7 @@ int swap(int arr1[], int arr2[], int n1, int n2)
  
 }
 
-int sort(int arr1[], int arr2[], int n1, int n2)
+int sort(int arr1[], int arr2[], int n1, int n2)// for sorting
 {
     int i=0,j=0,k,l,temp=0;
      for(i=0;i<n1;i++)
